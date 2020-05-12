@@ -1,2 +1,2 @@
-# Book-repo-Detail
-Book repository
+# BookRepository
+Spring Boot Sample Project
