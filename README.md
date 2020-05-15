@@ -1,2 +1,2 @@
-# BookRepository
-Spring Boot Sample Project
+# Spring-Book-Repo
+Detail hands on for Spring Boot
